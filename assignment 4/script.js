@@ -16,6 +16,6 @@ for (var i = 0; i < names.length; i++) {
         console.log("Goodbye "+ names[i])
 	}
 	else{
-		console.log("Hi "+ names[i])
+		console.log("Hello "+ names[i])
 	}
 }
